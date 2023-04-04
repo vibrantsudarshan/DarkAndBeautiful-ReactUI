@@ -58,5 +58,6 @@
 
     .gpt3__features-container__feature {
         margin: 1rem 0;
+        flex-direction: column;
     }
 }
