@@ -1,7 +1,7 @@
 .gpt3__features-container__feature {
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: flex-start;
     flex-direction: row;
 
@@ -58,6 +58,5 @@
 
     .gpt3__features-container__feature {
         margin: 1rem 0;
-        flex-direction: column;
     }
 }
