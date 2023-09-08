@@ -8,7 +8,7 @@ const Header = () => {
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
         <h1 className="gradient__text">
-          Let’s Build Something amazing with GPT-3 OpenAI @V2 Solutions on Sept 8th!
+          Let’s Build Something amazing with GPT-3 OpenAI @V2 Solutions on Sept 8th @1110IST!
         </h1>
         <p>At V2 Solutions, We are transforming Industries with Cutting-Edge AI Services and Expertise to Drive Efficiency, Growth, and Innovation!</p>
         <div className="gpt3__header-content__input">
