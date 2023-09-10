@@ -25,7 +25,7 @@ jobs:
         run: sudo apt update -y 
 
       - run: sudo npm ci
-      - run: sudo npm install
+      #- run: sudo npm install
 
       - name: Publish to NPM
         run: sudo npm start
