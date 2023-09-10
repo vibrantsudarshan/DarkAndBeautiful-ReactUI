@@ -30,3 +30,4 @@ jobs:
 
       - name: Publish to NPM
         run: sudo npm start
+
