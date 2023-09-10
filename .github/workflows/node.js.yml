@@ -23,7 +23,8 @@ jobs:
 
       - name: Install dependencies
         run: sudo apt update -y 
-        
+
+      - run: sudo npm ci
       - run: sudo npm install
 
       - name: Publish to NPM
