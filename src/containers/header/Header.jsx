@@ -8,7 +8,7 @@ const Header = () => {
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
         <h1 className="gradient__text">
-         Sept 11th!Never Forget , Never forgive!Prayfor the victims
+         "Honoring the lives lost and the resilience shown on September 11th, never forget."
         </h1>
         <p>At V2 Solutions, We are transforming Industries with Cutting-Edge AI Services and Expertise to Drive Efficiency, Growth, and Innovation!</p>
         <div className="gpt3__header-content__input">
